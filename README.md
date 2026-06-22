@@ -13,6 +13,6 @@ I'm a Full-Stack Developer with 1.5+ years of experience building and shipping s
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajyalaxmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rajyalaxmi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Rajyalakshmibojanapalli&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
