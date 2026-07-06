@@ -27,7 +27,7 @@
 
 ## Overview
 
-Full-Stack Developer with 1.5+ years shipping production-grade web applications across fintech, healthcare, and enterprise platforms. I own projects end-to-end — from architecture decisions to deployment — with a sharp focus on performance, security, and SEO that actually ranks.
+Full-Stack Developer with 2.5+ years shipping production-grade web applications across fintech, healthcare, and enterprise platforms. I own projects end-to-end — from architecture decisions to deployment — with a sharp focus on performance, security, and SEO that actually ranks.
 
 **Core Focus:**
 - React & Next.js frontends consistently hitting 90+ Lighthouse scores
